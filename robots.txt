@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eesiengepu.pieroprettojs.com/sitemap.xml
